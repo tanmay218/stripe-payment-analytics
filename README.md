@@ -68,3 +68,9 @@ Loaded cleaned data into PostgreSQL and wrote 10 analytical queries using:
 - Average risk scores are fairly consistent across countries (~32-35), suggesting risk is uniformly distributed rather than geography-driven
 
 ## Repository Structure
+## Note on Data
+This project uses Stripe's test mode, which generates simulated transaction data with the same structure as production data. The focus of this project is demonstrating the complete analytics pipeline — from API extraction to dashboard — rather than deriving business insights from real transaction data.
+
+## Author
+**Tanmay Tiwari**  
+[LinkedIn](https://linkedin.com/in/tanmay-tiwari-706b02228) | [GitHub](https://github.com/tanmay218)
